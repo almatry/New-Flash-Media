@@ -2170,7 +2170,6 @@ Version: 1.0
 
 .content-3-5 .feature-box
 {
-    background: #723147;
     margin: 20px 0;
     padding: 35px 30px;
     text-align: center;
@@ -2179,6 +2178,7 @@ Version: 1.0
     -moz-border-radius: 4px;
     -o-border-radius: 4px;
     -ms-border-radius: 4px;
+    background: #723147;
 }
 
 .content-3-5 .feature-box:hover
@@ -4405,9 +4405,5 @@ Version: 1.0
     color: #ffffff;
     font-weight: 700;
     margin: 0;
-}
-
-.main-nav .navbar-nav > li.active a
-{
 }
 
