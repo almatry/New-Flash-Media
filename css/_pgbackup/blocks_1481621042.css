@@ -67,6 +67,12 @@ Version: 1.0
 	color: rgba(255, 255, 255, 0.8);
 }
 
+#header-1 .main-nav .navbar-nav > li.active a
+{
+    color: #3498DB;
+    background: none;
+}
+
 #header-1 .main-nav .navbar-nav > li a:hover
 {
     color: #3498DB;
@@ -4399,9 +4405,5 @@ Version: 1.0
     color: #ffffff;
     font-weight: 700;
     margin: 0;
-}
-
-.main-nav .navbar-nav>li a:active
-{
 }
 
